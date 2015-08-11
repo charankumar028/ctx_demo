@@ -138,7 +138,7 @@ echo $num;
             World Wise Web Consortium
       </option>
       <option value="http://www.google.com">
-            Google Search Page
+            Google Search Page <h1>Update</h1>
       </option>
    </select>
    <input type="submit" />
